@@ -38,7 +38,7 @@ class Main extends PluginBase implements Listener{
 
 		    if(!($sender instanceof Player)){
 
-		        $sender->sendMessage("Bitte benutze den Befehl im Spiel");
+		        $sender->sendMessage("Bitte benutze den Befehl im Spiel(YT : Crow Balde)");
 
 		        return true;
 
@@ -128,7 +128,7 @@ class Main extends PluginBase implements Listener{
 
 			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
 
-			$this->getServer()->broadcastMessage("§aChat wurde Gelöscht §a$name");
+			$this->getServer()->broadcastMessage("§aChat wurde Gelöscht §a$name Programmiert von Crow Balde");
 
         }
 
