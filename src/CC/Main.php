@@ -24,7 +24,7 @@ class Main extends PluginBase implements Listener{
 
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
 
-        $this->getLogger()->info("\n§c§lCLEAR CHAT V-0.1 ONENABLE\n§aAUTHOR: §lWOOLCHANNEL3295");
+        $this->getLogger()->info("\n§c§lChat Löschen V-0.1 ONENABLE\n§aAUTHOR: §lCrow Balde");
 
     }
 
@@ -38,7 +38,7 @@ class Main extends PluginBase implements Listener{
 
 		    if(!($sender instanceof Player)){
 
-		        $sender->sendMessage("Vui Lòng Sử Dụng Lệnh Trong Game");
+		        $sender->sendMessage("Bitte benutze den Befehl im Spiel");
 
 		        return true;
 
