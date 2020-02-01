@@ -62,73 +62,73 @@ class Main extends PluginBase implements Listener{
 
             $name = $sender->getName();
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+			$this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); 
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat..."); 
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); 
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat..."); 
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); 
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat..."); 
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage("§aChat wurde Gelöscht §a$name");
+			$this->getServer()->broadcastMessage("§aChat wurde Gelöscht§b Vob §c$name");
 
                         $this->getServer()->broadcastMessage("§4Programmiert Von §9Crow§c Balde");
 
