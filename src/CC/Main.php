@@ -128,7 +128,7 @@ class Main extends PluginBase implements Listener{
 
 			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
 
-			$this->getServer()->broadcastMessage("§aChat Bị Xóa Bởi §a$name");
+			$this->getServer()->broadcastMessage("§aChat wurde Gelöscht §a$name");
 
         }
 
