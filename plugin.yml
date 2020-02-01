@@ -5,7 +5,7 @@ version: 0.1
 api:
 - 3.0.0
 commands:
- clearchat:
-   description: Loscht Denn Chat!
-   usage: /clearchat
+ Clearchat:
+   description: §4§lLöscht Denn Chat
+   usage: /Clearchat
    default: true
