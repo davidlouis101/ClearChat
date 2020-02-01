@@ -4,8 +4,9 @@ author: WoolChannel3295
 version: 0.1
 api:
 - 3.0.0
+- 3.8.1
 commands:
  clearchat:
-   description: Clear Toàn Bộ Chat Của Bạn
+   description: Loscht Denn Chat
    usage: /clearchat
    default: true
