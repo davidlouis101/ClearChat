@@ -1,0 +1,11 @@
+name: ClearChat
+main: CC\Main
+author: WoolChannel3295
+version: 0.1
+api:
+- 3.0.0
+commands:
+ clearchat:
+   description: Clear Toàn Bộ Chat Của Bạn
+   usage: /clearchat
+   default: true
