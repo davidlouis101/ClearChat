@@ -6,6 +6,6 @@ api:
 - 3.0.0
 commands:
  clearchat:
-   description: Clear Toàn Bộ Chat Của Bạn
+   description: Loscht Denn Chat!
    usage: /clearchat
    default: true
