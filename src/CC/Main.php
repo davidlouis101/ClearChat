@@ -24,7 +24,7 @@ class Main extends PluginBase implements Listener{
 
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
 
-        $this->getLogger()->info("\n§c§lChat Löschen V-0.1 ONENABLE\n§aAUTHOR: §lCrow Balde");
+        $this->getLogger()->info("\n§c§lChat Löschen V-0.1 ONENABLE\n§aAuthor: §lCrow Balde");
 
     }
 
@@ -34,7 +34,7 @@ class Main extends PluginBase implements Listener{
 
 		switch($cmd->getName()){
 
-		    case "clearchat":
+		    case "Clearchat":
 
 		    if(!($sender instanceof Player)){
 
