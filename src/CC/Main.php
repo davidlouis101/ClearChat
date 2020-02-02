@@ -126,15 +126,13 @@ class Main extends PluginBase implements Listener{
 
 			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
 
-			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Löscht Chat...");
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("Fertig!!!");
 
 			$this->getServer()->broadcastMessage("§aChat wurde Gelöscht.§b Von §c$name");
 
-                        $this->getServer()->broadcastMessage("§4Programmiert Von §9Crow§c Balde");
-
                         $this->getServer()->broadcastMessage("§bDiscord : https://discord.gg/rrf3gqh");
 
-                        $sender->sendMessage("("§4Hast Denn Chat Gelöscht(YT: Crow Balde)");
+             
 
         }
 
