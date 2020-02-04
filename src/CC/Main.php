@@ -130,7 +130,7 @@ class Main extends PluginBase implements Listener{
 
 			$this->getServer()->broadcastMessage("§aChat wurde Gelöscht.§b Von §c$name");
 
-                        $this->getServer()->broadcastMessage("§bDiscord : https://discord.gg/rrf3gqh");
+                        $this->getServer()->broadcastMessage("§bDiscord : https://discord.gg/nbf5rd");
 
              
 
