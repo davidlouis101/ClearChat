@@ -8,4 +8,4 @@ commands:
  Clearchat:
    description: §4§lLöscht Denn Chat
    usage: /Clearchat
-   default: true
+   default: op
