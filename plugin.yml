@@ -1,11 +1,11 @@
-name: ClearChat
+name: Werbung
 main: CC\Main
 author: WoolChannel3295
 version: 0.1
 api:
 - 3.0.0
 commands:
- Clearchat:
-   description: §3§lClearchat Plugin by Crow Balde
+ Werbung:
+   description: §3§lWerbung Cmd
    usage: /Clearchat
    default: op
