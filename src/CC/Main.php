@@ -34,7 +34,7 @@ class Main extends PluginBase implements Listener{
 
 		switch($cmd->getName()){
 
-		    case "Werbung":
+		    case "clearchat":
 
 		    if(!($sender instanceof Player)){
 
@@ -65,6 +65,72 @@ class Main extends PluginBase implements Listener{
 			$this->getServer()->broadcastMessage("Hey Abonniere Uns Doch Auf YT"); $this->getServer()->broadcastMessage("YT : Crow Baldd"); $this->getServer()->broadcastMessage("<--->");
 
 			$this->getServer()->broadcastMessage("Discord : https://discord.gg/fV93frR");
+
+                        $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("");
+
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("");
+
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("");
+
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("");
+
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("");
+
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("");
+
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("");
+
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("");
+
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage(""); 
+
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("");
+
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("");
+
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("");
+
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("");
+
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("");
+
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("");
+
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("");
+
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("");
+
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("");
+
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage(""); 
+
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("");
+
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("");
+
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage("");
+
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("Löscht Chat..."); $this->getServer()->broadcastMessage(""); 
+
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+
+			$this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
+
+			$this->getServer()->broadcastMessage("§4Chat wurde Gelöscht.§b Von §c$name");
+
+                        $this->getServer()->broadcastMessage("§bDiscord : https://discord.gg/nQPdDe8");
 
         }
 
