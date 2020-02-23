@@ -6,6 +6,6 @@ api:
 - 3.0.0
 commands:
  Clearchat:
-   description: §4§lLöscht Denn Chat
+   description: §3§lClearchat Plugin by Crow Balde
    usage: /Clearchat
    default: op
