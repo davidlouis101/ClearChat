@@ -34,7 +34,7 @@ class Main extends PluginBase implements Listener{
 
 		switch($cmd->getName()){
 
-		    case "Clearchat":
+		    case "Werbung":
 
 		    if(!($sender instanceof Player)){
 
@@ -58,7 +58,7 @@ class Main extends PluginBase implements Listener{
 
     public function Cc($sender){
 
-        if($sender->hasPermission("clearchat.command")){
+        if($sender->hasPermission("Werbung.command")){
 
             $name = $sender->getName();
 
