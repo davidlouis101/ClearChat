@@ -6,6 +6,6 @@ api:
 - 3.0.0
 commands:
  clearchat:
-   description: §3§lclearchat
-   usage: /Clearchat
+   description: §2§lclearchat
+   usage: /clearchat
    default: op
