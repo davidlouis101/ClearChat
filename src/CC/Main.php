@@ -62,9 +62,9 @@ class Main extends PluginBase implements Listener{
 
             $name = $sender->getName();
 
-			$this->getServer()->broadcastMessage("Hey Abonniere Uns Doch Auf YT"); $this->getServer()->broadcastMessage("YT : Crow Baldd"); $this->getServer()->broadcastMessage("<--->");
+			$this->getServer()->broadcastMessage("Hey Abonniere Uns Doch Auf YT"); $this->getServer()->broadcastMessage("YT : Crow Balde"); $this->getServer()->broadcastMessage("<--->");
 
-			$this->getServer()->broadcastMessage("Discord : https://discord.gg/fV93frR");
+			$this->getServer()->broadcastMessage("Discord : https://discord.gg/vQaMdSd");
 
                         $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage(""); $this->getServer()->broadcastMessage("");
 
@@ -130,7 +130,7 @@ class Main extends PluginBase implements Listener{
 
 			$this->getServer()->broadcastMessage("§4Chat wurde Gelöscht.§b Von §c$name");
 
-                        $this->getServer()->broadcastMessage("§bDiscord : https://discord.gg/nQPdDe8");
+                        $this->getServer()->broadcastMessage("§bDiscord : https://discord.gg/vQaMdSd");
 
         }
 
